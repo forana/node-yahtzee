@@ -1,0 +1,29 @@
+{
+  "name": "yahtzee",
+  "version": "1.0.0",
+  "description": "CLI Yahtzee",
+  "main": "yahtzee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forana/node-yahtzee.git"
+  },
+  "keywords": [
+    "yahtzee",
+    "stupid",
+    "pointless"
+  ],
+  "author": "Alex Foran <alex@alexforan.com> (http://alexforan.com/)",
+  "license": "WTF",
+  "bugs": {
+    "url": "https://github.com/forana/node-yahtzee/issues"
+  },
+  "homepage": "https://github.com/forana/node-yahtzee",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "colors": "^1.0.3"
+  },
+  "bin": "./yahtzee.js"
+}
